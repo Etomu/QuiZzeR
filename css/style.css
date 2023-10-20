@@ -9,17 +9,17 @@
 }
 
 :root {
-    --color-primary: #6c63ff;
-    --color-success: #00bf8c;
+    --color-primary: #7f4800;
+    --color-success: #bf5f00;
     --color-warning: #f7c94b;
-    --color-danger: #f75842;
+    --color-danger: #d37400;
     --color-danger-variant: rgba(247, 88, 66, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.7);
     --color-black: #000;
-    --color-bg: #1f2641;
-    --color-bg1: #2e3267;
-    --color-bg2: #424890;
+    --color-bg: #412e1f;
+    --color-bg1: #67502e;
+    --color-bg2: #80582a;
 
     --container-width-lg: 80%;
     --container-width-md: 90%;
